@@ -16,6 +16,7 @@ Copy `.env.example` to `.env` and update enviroment variables.
 
 ```
 poetry install
+pre-commit install
 ```
 
 ## Run
