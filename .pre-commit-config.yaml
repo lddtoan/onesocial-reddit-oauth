@@ -6,19 +6,16 @@ repos:
         entry: black
         language: python
         types: [python]
-        args: ["onesocial_reddit_oauth/"]
       - id: isort
         name: isort
         entry: isort
         language: python
         types: [python]
-        args: ["onesocial_reddit_oauth/"]
       - id: pylint
         name: pylint
         entry: pylint
         language: python
         types: [python]
-        args: ["onesocial_reddit_oauth/"]
       - id: pytest
         name: pytest
         entry: sh
